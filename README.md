@@ -13,7 +13,7 @@
 
 ## Sample Screencast
 
-![alt text](https://github.com/)
+![alt text](https://github.com/serkanbingol/TERRAFORM-DIGITALOCEAN-AWS-AZURE/blob/master/images/terraform_apply.png)
 
 ### Overall Outputs
 
